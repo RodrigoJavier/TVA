@@ -1,0 +1,6 @@
+D:\Visual Proyectos\DTO_TVA\bin\Debug\DTO_TVA.dll
+D:\Visual Proyectos\DTO_TVA\bin\Debug\DTO_TVA.pdb
+D:\Visual Proyectos\DTO_TVA\obj\Debug\DTO_TVA.csproj.AssemblyReference.cache
+D:\Visual Proyectos\DTO_TVA\obj\Debug\DTO_TVA.csproj.CoreCompileInputs.cache
+D:\Visual Proyectos\DTO_TVA\obj\Debug\DTO_TVA.dll
+D:\Visual Proyectos\DTO_TVA\obj\Debug\DTO_TVA.pdb

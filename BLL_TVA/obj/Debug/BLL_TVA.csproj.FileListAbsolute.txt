@@ -1,0 +1,11 @@
+D:\Visual Proyectos\BLL_TVA\bin\Debug\BLL_TVA.dll
+D:\Visual Proyectos\BLL_TVA\bin\Debug\BLL_TVA.pdb
+D:\Visual Proyectos\BLL_TVA\bin\Debug\DAL_TVA.dll
+D:\Visual Proyectos\BLL_TVA\bin\Debug\DTO_TVA.dll
+D:\Visual Proyectos\BLL_TVA\bin\Debug\DAL_TVA.pdb
+D:\Visual Proyectos\BLL_TVA\bin\Debug\DTO_TVA.pdb
+D:\Visual Proyectos\BLL_TVA\obj\Debug\BLL_TVA.csproj.AssemblyReference.cache
+D:\Visual Proyectos\BLL_TVA\obj\Debug\BLL_TVA.csproj.CoreCompileInputs.cache
+D:\Visual Proyectos\BLL_TVA\obj\Debug\BLL_TVA.csproj.CopyComplete
+D:\Visual Proyectos\BLL_TVA\obj\Debug\BLL_TVA.dll
+D:\Visual Proyectos\BLL_TVA\obj\Debug\BLL_TVA.pdb
